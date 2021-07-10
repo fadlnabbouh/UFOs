@@ -6,13 +6,13 @@ The purpose of this project was to create a webpage that hosts data on UFO sight
 
 ## Results
 
-The webpage initially loads with all of the UFO sighting data already loaded into a table. Along the side of the table are five search bars that will allow a user to filter by Date of sighting, City, State, Country, and Shape of UFO. Placeholder text is provided to indicate how a search term should be formated in each filter. An image of what the site looks like is here: ![initial_picture](link).
+The webpage initially loads with all of the UFO sighting data already loaded into a table. Along the side of the table are five search bars that will allow a user to filter by Date of sighting, City, State, Country, and Shape of UFO. Placeholder text is provided to indicate how a search term should be formated in each filter. An image of what the site looks like is here: ![initial_picture](https://github.com/fadlnabbouh/UFOs/blob/main/Images/initial_pic.png).
 
-In order to filter the table, a user may enter their filter term into an input bar. Pressing enter on the keyboard or clicking anywhere on the webpage will allow the table to filter by the search terms. For example, to search by the state California, a user can filter by "ca" in the State bar. ![image_2](link).
+In order to filter the table, a user may enter their filter term into an input bar. Pressing enter on the keyboard or clicking anywhere on the webpage will allow the table to filter by the search terms. For example, to search by the state California, a user can filter by "ca" in the State bar. ![image_2](https://github.com/fadlnabbouh/UFOs/blob/main/Images/image_2.png).
 
-Likewise, a user can search by all other filters individually, such as date: ![image_3](link). 
+Likewise, a user can search by all other filters individually, such as date: ![image_3](https://github.com/fadlnabbouh/UFOs/blob/main/Images/image_3.png). 
 
-Finally, a user can combine more than one filter to have a more in-depth analysis. In this case, I searched by the state California AND by the date 1/2/2010. ![image_4](link). 
+Finally, a user can combine more than one filter to have a more in-depth analysis. In this case, I searched by the state California AND by the date 1/2/2010. ![image_4](https://github.com/fadlnabbouh/UFOs/blob/main/Images/image_4.png). 
 
 In order to reset the table, the filters simply need to be erased and enter pressed or with a click of the mouse anywhere on the webpage.
 
